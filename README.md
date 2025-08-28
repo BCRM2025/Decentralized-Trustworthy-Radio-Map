@@ -13,7 +13,7 @@ Schematic diagram of the blockchain-based radio map is shown as follows. The wor
 
 ![Schematic diagram](doc/Framework.svg)
 
-This framework modifies the data structure of blocks to meet the construction requirements of wireless maps. Block structure in the blockchain-based radio map is as follows. 
+Block structure in the blockchain-based radio map is as follows. This framework modifies the data structure of blocks to meet the construction requirements of wireless maps. 
 The structure includes the modified block header storing the radio map hash for verification and the block body containing the radio map and sensing data in a merkle tree.
 
 ![Block structure](doc/Block.svg)
