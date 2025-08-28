@@ -2,7 +2,7 @@
 
 ChainXim-based simulation of Decentralized Trustworthy Radio Map
 
-Source code for the simulations in the paper "Decentralized Trustworthy Radio Map:A Blockchain Approach". This project is built upon a previous version of [ChainXim](https://github.com/XinLab-SEU/ChainXim).
+Source code for the simulations in the paper "Decentralized Trustworthy Radio Map: A Blockchain Approach". This project is built upon a previous version of [ChainXim](https://github.com/XinLab-SEU/ChainXim).
 
 ## Introduction
 
